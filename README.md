@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Majid-Ahmed
-- 👀 I’m learner and alawys to see learn new  thingd
+- 👀 I’m learner and alawys to see learn new  things
 - 🌱 I’m java development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
